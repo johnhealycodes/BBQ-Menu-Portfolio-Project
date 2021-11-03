@@ -44,7 +44,8 @@ html {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    padding-left: 300px;
+    padding-left: 280px;
+    padding-right: 280px;
 }
 
 .container {
@@ -85,8 +86,8 @@ html {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    padding-left: 170px;
-    padding-right: 170px;
+    padding-left: 250px;
+    padding-right: 250px;
 
 }
 
